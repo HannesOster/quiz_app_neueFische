@@ -16,11 +16,13 @@
   display: block;
   margin: 0 auto 2rem auto;
   padding: 1rem;
+  transition: opacity 0.5s linear, color 0.5s linear;
 }
 
 .card__button-answer:hover {
   opacity: 0.75;
   cursor: pointer;
+  color: black;
 }
 
 .card__answer {

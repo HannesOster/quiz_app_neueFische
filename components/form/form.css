@@ -1,0 +1,8 @@
+.character-advise {
+  color: grey;
+  transition: color 1s linear;
+}
+.character-advise--red {
+  color: red;
+  transition: color 1s linear;
+}

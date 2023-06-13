@@ -5,6 +5,7 @@
   border-radius: 50%;
   background: var(--secondary);
   color: var(--white);
+  transition: color 0.5s linear;
 }
 
 .bookmark:hover {

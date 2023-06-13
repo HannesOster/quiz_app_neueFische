@@ -69,3 +69,17 @@
   + .profile__settings-darkmode-label:after {
   right: 5px;
 }
+.dark {
+  background: black;
+  color: white;
+  border-color: white;
+  fill: white;
+}
+.svg {
+  color: black;
+}
+.svg--white {
+  fill: white;
+  color: white;
+  z-index: 200;
+}
